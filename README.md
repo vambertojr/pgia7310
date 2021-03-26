@@ -1,14 +1,14 @@
 # pgia7310
 Disciplina de Fundamentos de Programação Aplicada
 
-Título: Aplicativo Educativo sobre Doenças Raras
-Orientador: Gilberto A. de A. Cysneiros Filho
+Título: Aplicativo Educativo sobre Doenças Raras<br>
+Orientador: Gilberto A. de A. Cysneiros Filho<br>
 Aluno: Vamberto Rocha Jr
 Abordagem: Usar narrativa (​storytelling​) para explicar sobre uma doença rara juntamente
-com um jogo de perguntas para avaliar o aprendizado.
+com um jogo de perguntas para avaliar o aprendizado.<br>
 Metodologia: Investigar sobre a doença incluindo, assuntos como tratamento, progresso do
 tratamento, ou dificuldades enfrentadas, inclusão social, relatos de profissionais da área,
-pacientes, familiares e amigos.
+pacientes, familiares e amigos.<br>
 Funcionalidades:
 - Armazenamento de dados relativos ao aprendizado na nuvem
 - Armazenamento de dados informações de contato (opcional para o usuário)
