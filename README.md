@@ -4,7 +4,8 @@ Disciplina de Fundamentos de Programação Aplicada<br><br>
 
 Título: Aplicativo Educativo sobre Doenças Raras<br>
 Orientador: Gilberto A. de A. Cysneiros Filho<br>
-Aluno: Vamberto Rocha Jr Abordagem: Usar narrativa (​storytelling​) para explicar sobre uma doença rara juntamente com um jogo de perguntas para avaliar o aprendizado.<br>
+Aluno: Vamberto Rocha Jr <br>
+Abordagem: Usar narrativa (​storytelling​) para explicar sobre uma doença rara juntamente com um jogo de perguntas para avaliar o aprendizado.<br>
 Metodologia: Investigar sobre a doença incluindo, assuntos como tratamento, progresso do tratamento, ou dificuldades enfrentadas, inclusão social, relatos de profissionais da área, pacientes, familiares e amigos.<br>
 
 Funcionalidades:<br>
