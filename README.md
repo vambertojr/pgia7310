@@ -9,8 +9,8 @@ Metodologia: Investigar sobre a doença incluindo, assuntos como tratamento, pro
 
 Funcionalidades:<br>
 
-Armazenamento de dados relativos ao aprendizado na nuvem
-Armazenamento de dados informações de contato (opcional para o usuário)
-Armazenamento de perguntas na nuvem permitindo o cadastro por profissionais qualificados
-As perguntas e respostas devem ser recuperadas da base na nuvem
-Uso de voz para interação com o usuário
+- Armazenamento de dados relativos ao aprendizado na nuvem
+- Armazenamento de dados informações de contato (opcional para o usuário)
+- Armazenamento de perguntas na nuvem permitindo o cadastro por profissionais qualificados
+- As perguntas e respostas devem ser recuperadas da base na nuvem
+- Uso de voz para interação com o usuário
