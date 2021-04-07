@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:pgia7310/screens/Home.dart';
+import 'package:pgia7310/screens/tela2.dart';
 
 void main() {
-  runApp(new MyFlutterApp()  );
+  runApp(MyFlutterApp());
 
 }
 
@@ -12,10 +13,11 @@ class MyFlutterApp extends StatelessWidget{
     return MaterialApp(
         debugShowCheckedModeBanner: false,
         title: "PGIA7310",
-        home: Scaffold(
-          appBar: AppBar(title: Text("1º Tela"),),
-          body: FirstScreen()
-        )
+        initialRoute: 'home',
+        routes: {
+          'home': (context) => FirstScreen(),
+          'tela2': (context) => Pagina2(),
+        },
     );
 
   }
