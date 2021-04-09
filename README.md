@@ -15,3 +15,8 @@ Funcionalidades:<br>
 - Armazenamento de perguntas na nuvem permitindo o cadastro por profissionais qualificados
 - As perguntas e respostas devem ser recuperadas da base na nuvem
 - Uso de voz para interação com o usuário
+
+
+# Logo
+
+![LogoProMedico](https://user-images.githubusercontent.com/17991183/114175205-1c677200-9910-11eb-90cd-3014503f755b.png)
