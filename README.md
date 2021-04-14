@@ -20,3 +20,7 @@ Funcionalidades:<br>
 # Logo
 
 ![LogoProMedico](https://user-images.githubusercontent.com/17991183/114175205-1c677200-9910-11eb-90cd-3014503f755b.png)
+
+# Fluxo
+
+![Projeto](https://user-images.githubusercontent.com/17991183/114729647-8f108d00-9d16-11eb-9f63-4273eb8dc206.png)
