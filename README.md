@@ -18,9 +18,10 @@ Funcionalidades:<br>
 
 
 # Logo
-
-![LogoProMedico](https://user-images.githubusercontent.com/17991183/114175205-1c677200-9910-11eb-90cd-3014503f755b.png)
+![hope_logo](https://user-images.githubusercontent.com/17991183/115553149-773f8880-a283-11eb-9a0a-9bca8b4c95cc.png)
 
 # Fluxo
-
 ![Projeto](https://user-images.githubusercontent.com/17991183/114729647-8f108d00-9d16-11eb-9f63-4273eb8dc206.png)
+
+# Video Marketing
+[https://youtu.be/k5bOSNKTKQc](url)
